@@ -4,6 +4,10 @@
   "name":"test",
   "gamemaster":"hansbaker90@gmail.com",
   "numPlayers":2,
+  "notes":"<h3>I am a Note!</h3>"
+  }
+  ],
+  
   "players":[
     {
       "game":"test",
@@ -75,10 +79,78 @@
         }
       ],
       "notes":"<p>THIS IS A NOTE! HELLO THERE! <br /> HOW ARE YOU?</p>"
+    },
+    {
+      "game":"test",
+      "userID":"stig.baker@gmail.com",
+      "index":0,
+      "name":"Stig, the Creator",
+      "level":2,
+      "currXP":350,
+      "gender":"male",
+      "age":25,
+      "race":"human",
+      "inventory":[],
+      "equipped":{
+        "head":{
+          "stats":[],
+          "abilities":[],
+          "effects":[]
+        },
+        "body":{
+          "stats":[],
+          "abilities":[],
+          "effects":[]
+        },
+        "boots":{
+          "stats":[],
+          "abilities":[],
+          "effects":[]
+        },
+        "mainhand":{
+          "stats":[],
+          "abilities":[],
+          "effects":[]
+        },
+        "offhand":{
+          "stats":[],
+          "abilities":[],
+          "effects":[]
+        },
+        "trinket":{
+          "stats":[],
+          "abilities":[],
+          "effects":[]
+        }
+      },
+      "vitality":20,
+      "strength":19,
+      "agility":18,
+      "intelligence":17,
+      "charm":16,
+      "bravery":15,
+      "perception":14,
+      "wisdom":13,
+      "abilities":[
+        {
+          "name":"ability",
+          "description":"fakenews"
+        }
+       ],
+      "effects":[
+        {
+          "name":"buff",
+          "description":"it helps"
+        }
+      ],
+      "personality":[
+        {
+          "category":"Virtues",
+          "name":"honest"
+        }
+      ],
+      "notes":"<p>THIS IS A NOTE! HELLO THERE! <br /> HOW ARE YOU?</p>"
     }
-  ],
-  "notes":"<h3>I am a Note!</h3>"
-  }
   ]
 }
 
