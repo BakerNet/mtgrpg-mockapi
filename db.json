@@ -1,4 +1,5 @@
-{
+[
+  {
   "name":"test",
   "gamemaster":"hansbaker90@gmail.com",
   "numPlayers":2,
@@ -76,4 +77,6 @@
     }
   ],
   "notes":"<h3>I am a Note!</h3>"
-}
+  }
+]
+
